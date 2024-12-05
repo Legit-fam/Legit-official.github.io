@@ -73,11 +73,11 @@ links:
     Icon-Class: fab fa-youtube
 
     # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: harsh98trivedi
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
+  - Name: 
+    URL: 
+    Username:
+    Color: 
+    Icon-Class: 
 
     # WordPress
   - Name: WordPress.org
