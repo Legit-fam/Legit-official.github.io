@@ -5,7 +5,7 @@ name: LEGIT
 tagline: LEGIT OFFICIAL
 
 # YOUR/BRAND IMAGE URL
-Image_URL: assets/images/LEGIT.jpg
+Avator : assets/images/LEGIT.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
